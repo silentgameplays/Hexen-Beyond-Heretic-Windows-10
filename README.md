@@ -1,9 +1,8 @@
 # Hexen-Beyond-Heretic-Windows-10
-# heretic-in-2020-with-GZdoom
 
 1.Download latest GZdoom from my github repo or from https://zdoom.org/downloads
 
-2.Extract and copy/paste into your game installation directory base:
+2.Extract and copy/paste into your game installation directory:
 C:\Program Files (x86)\Steam\steamapps\common\Hexen\base
 
 3.Rename the dosbox in your directory to dosboxold
